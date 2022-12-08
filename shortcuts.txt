@@ -1,0 +1,79 @@
+Unreal engine shortcuts (Windows OS)
+- Copy → Ctrl + C
+- Cut → Ctrl + X
+- Paste → Ctrl + V
+- Save in Blueprint → Ctrl + S
+- Find within Blueprint → Ctrl + F
+- Find in all Blueprints → Ctrl + Shift + F
+- Delete or Backspace → Delete
+- Undo → Ctrl + Z
+- Redo → Ctrl + Y
+- Select All → Ctrl + A
+- Clear Selection → Esc
+- Move Selection → Arrows
+- Open File → F1
+- Rename → F2
+- Find in Content Browser → Ctrl + B
+- Browse Tabs → Ctrl + Tab
+- Open Level → Ctrl + O
+- Play/Simulate → Alt + P / Alt + S
+- Show Navmesh → P
+- Zoom → Mouse Wheel Up/Down 
+Viewport Transformation Shortcuts for UE4 and UE5
+- Scale → R
+- Translate → W
+- Rotate → E
+- Toggle Move, Rotate, Scale → Spacebar
+Viewport Camera Shortcuts for UE4 and UE5
+- Focus → F (focuses Viewport on a selected object)
+- View → G (show/hide tools such as grids and icons to preview the level)
+- Perspective View → Alt + G
+- Front View → Alt + H
+- Top View → Alt + J
+- Left View → Alt + K
+- Right View → Alt + Shift + K
+Play World Hotkeys for UE4 and UE5
+- Play → Alt + P
+- Pause → PAUSE
+- Enable Full Screen → Shift + F11
+- Command Console → ` / ~
+- Eject → F8
+Viewport Navigation Shortcuts for UE4 and UE5
+- Wireframe View → Alt + 2
+- Unlit View → Alt + 3
+- Lit View → Alt + 4
+- Increase Grid Size → Shift + [
+- Decrease Grid Size → Shift + ]
+Level Editor Shortcuts for UE4 and UE5
+- Menu → Right Mouse Button
+- Save All → Ctrl + S
+- Set Bookmark → Ctrl + 0-9
+- Jump to Bookmark → 0-9
+- Hide Selected → H
+- Unhide All → Ctrl + H
+- Snap to Floor → End
+- Snap Pivot to Floor → Alt + End
+- Snap Bounds to Floor → Shift + End
+- Snap Origin to Grid → Ctrl + End
+- Select all Adjacent Floor Surfaces → Shift + U
+- Select all Adjacent Slant Surfaces → Shift + Y
+- Select all Adjacent Surfaces → Shift + J
+- Select all Adjacent Wall Surfaces → Shift + W
+- Select all Coplanar Surfaces → Shift + C
+- Find in Blueprint/Level Script → Ctrl + K
+- Show Navigation Mesh → P
+- Duplicate and Transform → Alt + Transform
+Level Editor Modes for UE4
+- Actor Placement Mode → Shift + 1
+- Paint Editing Mode → Shift + 2
+- Landscape Editing Mode → Shift + 3
+- Foliage Editing Mode → Shift + 4
+- Geometry Editing Mode → Shift + 5
+Level Editor Modes for UE5
+- Select → Shift + 1
+- Landscape → Shift + 2
+- Foliage → Shift + 3
+- Mesh paint → Shift + 4	
+- Fracture → Shift + 5
+- Brush editing → Shift + 6
+
